@@ -36,8 +36,8 @@ plugins:
   - jekyll-remote-theme
 
 # Markdown Renderer
-kramdown:
-  math_engine: katex
+#kramdown:
+#  math_engine: katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
